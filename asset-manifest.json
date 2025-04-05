@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/colourgame/static/css/main.1d18582a.css",
+    "main.js": "/colourgame/static/js/main.68c25a9f.js",
+    "static/js/453.ca1c37d8.chunk.js": "/colourgame/static/js/453.ca1c37d8.chunk.js",
+    "index.html": "/colourgame/index.html",
+    "main.1d18582a.css.map": "/colourgame/static/css/main.1d18582a.css.map",
+    "main.68c25a9f.js.map": "/colourgame/static/js/main.68c25a9f.js.map",
+    "453.ca1c37d8.chunk.js.map": "/colourgame/static/js/453.ca1c37d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d18582a.css",
+    "static/js/main.68c25a9f.js"
+  ]
+}
