@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/colourgame/static/css/main.e6c13ad2.css",
-    "main.js": "/colourgame/static/js/main.aba8d0be.js",
+    "main.css": "/colourgame/static/css/main.83313ee5.css",
+    "main.js": "/colourgame/static/js/main.ce6a8155.js",
     "index.html": "/colourgame/index.html",
-    "main.e6c13ad2.css.map": "/colourgame/static/css/main.e6c13ad2.css.map",
-    "main.aba8d0be.js.map": "/colourgame/static/js/main.aba8d0be.js.map"
+    "main.83313ee5.css.map": "/colourgame/static/css/main.83313ee5.css.map",
+    "main.ce6a8155.js.map": "/colourgame/static/js/main.ce6a8155.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.aba8d0be.js"
+    "static/css/main.83313ee5.css",
+    "static/js/main.ce6a8155.js"
   ]
 }
